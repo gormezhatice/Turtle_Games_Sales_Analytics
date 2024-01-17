@@ -5,6 +5,8 @@ The investigation delved into understanding how customers accumulate loyalty poi
 
 The project unfolds as a strategic pursuit to unravel key insights that will empower Turtle Games in refining their marketing strategies and boosting overall sales performance.
 
+# Data Analysis and Insights:
+
 #### renumeration vs loyalty
 
 <img width="917" alt="Screenshot 2024-01-16 at 14 46 49" src="https://github.com/gormezhatice/Turtle_Games_Sales_Analytics/assets/133010718/6fc3b40c-7336-43fd-ad15-3dd030f0682e">
@@ -36,3 +38,6 @@ In R, a critical step involved grouping data by the product column, aligning wit
 <img width="756" alt="Screenshot 2024-01-17 at 12 12 55" src="https://github.com/gormezhatice/Turtle_Games_Sales_Analytics/assets/133010718/6ab51d05-728c-4790-a0b1-aaa18b2a5f3e">
 
 The analysis indicates that for both 'remuneration' and 'spending_score' features, 5 clusters emerge as the optimal choice. Examining cluster sizes, Cluster 0 stands out as the largest with 1293 observations, while Clusters 1 and 2 are roughly equal, comprising 351 and 356 observations respectively. Noteworthy patterns in remuneration and spending score emerge, revealing that Cluster 0 represents moderate earners with moderate to high spending, Cluster 1 denotes high earners with low spending (potentially conservative), and Cluster 2 signifies affluent individuals with high earnings and spending. These insights provide a clear segmentation of Turtle Games' customer base, aiding targeted marketing and sales strategies.
+
+<img width="797" alt="Screenshot 2024-01-17 at 12 32 20" src="https://github.com/gormezhatice/Turtle_Games_Sales_Analytics/assets/133010718/c7bdbee5-71e5-4e48-9aa5-8eda9dcc5d38">
+
