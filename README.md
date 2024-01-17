@@ -5,7 +5,14 @@ The investigation delved into understanding how customers accumulate loyalty poi
 
 The project unfolds as a strategic pursuit to unravel key insights that will empower Turtle Games in refining their marketing strategies and boosting overall sales performance.
 
+#### renumeration vs loyalty
 
 <img width="917" alt="Screenshot 2024-01-16 at 14 46 49" src="https://github.com/gormezhatice/Turtle_Games_Sales_Analytics/assets/133010718/6fc3b40c-7336-43fd-ad15-3dd030f0682e">
 
+#### spending vs loyalty
+
 <img width="914" alt="Screenshot 2024-01-16 at 14 33 59" src="https://github.com/gormezhatice/Turtle_Games_Sales_Analytics/assets/133010718/5172c3ff-ecee-4439-b54c-6878af74f124">
+
+#### age vs loyalty
+
+<img width="921" alt="Screenshot 2024-01-17 at 11 42 32" src="https://github.com/gormezhatice/Turtle_Games_Sales_Analytics/assets/133010718/d124ef73-0e51-4e0e-84a9-28bdfab6c05b">
