@@ -17,5 +17,14 @@ The project unfolds as a strategic pursuit to unravel key insights that will emp
 
 <img width="921" alt="Screenshot 2024-01-17 at 11 42 32" src="https://github.com/gormezhatice/Turtle_Games_Sales_Analytics/assets/133010718/d124ef73-0e51-4e0e-84a9-28bdfab6c05b">
 
+I analysed Turtle Games' datasets using Python and R, ensuring data integrity. The Turtle reviews dataset, covering customer demographics and product-related info, revealed key insights. Customers, aged 17 to 72, showed an average remuneration of £48 and a diverse spending score. Loyalty points correlated positively with age and remuneration, indicating that older customers and those with higher income accumulate more points.
+
+For Turtle Games' objectives, I employed Python libraries (statsmodels, scikit-learn, nltk) and R's tidyverse for machine learning and visualisations. The initial simple linear regression models for age, remuneration, and spending score had low R-squared values. A multiple linear regression model improved to R-squared 0.85 but exhibited heteroscedasticity and moderate errors, necessitating further model refinement.
+
 <img width="706" alt="Screenshot 2024-01-17 at 11 43 41" src="https://github.com/gormezhatice/Turtle_Games_Sales_Analytics/assets/133010718/43e977c7-3680-4595-b0ae-41696f53bce7">
+
+Utilizing the elbow and silhouette methods in the k-means clustering process, I identified five distinct customer groups within Turtle Games' customer base. For sentiment analysis, I standardized texts by making them lowercase, removing punctuation, and maintaining stopwords for context. Notably, I opted to remove duplicates from each sentiment column separately to preserve individuality.
+
+In R, a critical step involved grouping data by the product column, aligning with Turtle Games' focus on sales impact per product. The Elbow Method revealed a rapid decrease in Within-Cluster-Sum of Squares up to 5 clusters, indicating it as the optimal number. Silhouette scores affirmed this choice, further supporting 5 clusters as the most suitable grouping for meaningful insights into Turtle Games' customer segments.
+
 <img width="750" alt="Screenshot 2024-01-17 at 11 44 15" src="https://github.com/gormezhatice/Turtle_Games_Sales_Analytics/assets/133010718/ae86cd17-03a6-4aa2-ae28-4c50fb1bd438">
