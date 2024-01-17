@@ -16,3 +16,6 @@ The project unfolds as a strategic pursuit to unravel key insights that will emp
 #### age vs loyalty
 
 <img width="921" alt="Screenshot 2024-01-17 at 11 42 32" src="https://github.com/gormezhatice/Turtle_Games_Sales_Analytics/assets/133010718/d124ef73-0e51-4e0e-84a9-28bdfab6c05b">
+
+<img width="706" alt="Screenshot 2024-01-17 at 11 43 41" src="https://github.com/gormezhatice/Turtle_Games_Sales_Analytics/assets/133010718/43e977c7-3680-4595-b0ae-41696f53bce7">
+<img width="750" alt="Screenshot 2024-01-17 at 11 44 15" src="https://github.com/gormezhatice/Turtle_Games_Sales_Analytics/assets/133010718/ae86cd17-03a6-4aa2-ae28-4c50fb1bd438">
